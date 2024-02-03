@@ -5,7 +5,11 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # 💫 About Me:
-Hey there! 👋 Welcome to my GitHub space, where code meets creativity and collaboration! I'm Smit Shah, a passionate engineer on a journey to explore the endless possibilities of technology. <br><br>🛠️ Currently Working On:<br>The Learning Agency Lab - PII Data Detection : Develop a model that detects personally identifiable information (PII) in student writing.<br><br>🤝 Looking to Collaborate On:<br>I'm open to collaborating on exciting projects that involve full-stack development and/or data science. If you're working on something cool, feel free to reach out!<br><br>📚 Currently Learning:<br>My learning journey is fueled by the curiosity to master:<br> React<br> Next.js<br> AWS<br> Natural Language Processing (NLP)<br><br>💬 Ask Me About:<br>I'm actively exploring summer internship opportunities! If you have any leads, advice, or just want to chat about internship experiences, hit me up.
+Hey there! 👋 Welcome to my GitHub space, where code meets creativity and collaboration! I'm Smit Shah, a passionate engineer on a journey to explore the endless possibilities of technology. <br><br>
+**🛠️ Currently Working On:**<br>The Learning Agency Lab - PII Data Detection : Develop a model that detects personally identifiable information (PII) in student writing.<br><br>
+**🤝 Looking to Collaborate On:**<br>I'm open to collaborating on exciting projects that involve full-stack development and/or data science. If you're working on something cool, feel free to reach out!<br><br>
+**📚 Currently Learning:**<br>My learning journey is fueled by the curiosity to master:<br> React<br> Next.js<br> AWS<br> Natural Language Processing (NLP)<br><br>
+**💬 Ask Me About:**<br>I'm actively exploring summer internship opportunities! If you have any leads, advice, or just want to chat about internship experiences, hit me up.
 
 
 ## 🌐 Socials:
