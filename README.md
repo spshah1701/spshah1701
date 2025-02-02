@@ -4,12 +4,25 @@ spshah1701/spshah1701 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-# 💫 About Me:
-Hey there! 👋 Welcome to my GitHub space, where code meets creativity and collaboration! I'm Smit Shah, a passionate engineer on a journey to explore the endless possibilities of technology. <br><br>
-**🛠️ Currently Working On:**<br>The Learning Agency Lab - PII Data Detection : Develop a model that detects personally identifiable information (PII) in student writing.<br><br>
-**🤝 Looking to Collaborate On:**<br>I'm open to collaborating on exciting projects that involve software engineering, full-stack development and/or data science. If you're working on something cool, feel free to reach out!<br><br>
-**📚 Currently Learning:**<br>My learning journey is fueled by the curiosity to master:<br> Python<br> Rust<br> AWS<br> Natural Language Processing (NLP)<br><br>
-**💬 Ask Me About:**<br>I'm actively exploring full-time job opportunities starting May2025 in the US! If you have any leads, advice, or just want to chat about job experiences, hit me up.
+💫 About Me:
+Hey there! 👋 Welcome to my GitHub space, where code meets creativity and collaboration! I'm Smit Shah, a passionate engineer on a journey to explore the endless possibilities of technology.
+
+🛠️ Currently Working On:
+angr – Enhancing symbolic execution capabilities and improving performance optimizations.
+Claripy – Refining constraint-solving techniques and integrating backend improvements.
+ClariRs – Developing Rust-based components for faster and more efficient symbolic reasoning.
+🤝 Looking to Collaborate On:
+I'm open to collaborating on exciting projects involving software engineering, backend development, and data science. If you're working on something interesting, feel free to reach out!
+
+📚 Currently Learning:
+My learning journey is fueled by the curiosity to master:
+
+Python
+Rust
+AWS
+Natural Language Processing (NLP)
+💬 Ask Me About:
+I'm actively exploring full-time job opportunities starting May 2025 in the US! If you have any leads, insights, or just want to discuss industry trends, feel free to connect. 🚀
 
 
 ## 🌐 Socials:
