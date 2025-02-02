@@ -40,7 +40,7 @@ I'm always exploring new technologies to expand my skill set. Currently diving d
 I'm actively exploring **full-time job opportunities** starting **May 2025** in the **United States**!  
 If you have any **leads, insights, or want to chat about industry trends**, feel free to connect.  
 
-📧 **Email:** smitshah1701@gmail.com  
+📧 **Email:** sshah210@asu.edu 
 📌 **Location:** Anywhere in the United States (Available from May 2025 for fully in-person, hybrid, or fully remote roles)  
 
 ---
