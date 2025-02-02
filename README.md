@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 # 💫 About Me  
 Hey there! 👋 Welcome to my GitHub space, where **code meets creativity and collaboration**!  
-I'm **Smit Shah**, a passionate student and engineer on a journey to explore the endless possibilities of technology.  
+I'm **[Smit Shah](https://www.smitpshah.com/)**, a passionate student and engineer on a journey to explore the endless possibilities of technology.  
 
 ---
 
